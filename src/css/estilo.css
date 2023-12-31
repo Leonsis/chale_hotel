@@ -9,3 +9,8 @@ body {
     font-family: Helvetica, "Trebuchet MS", sans-serif;
     background: #fff url(../img/);
 }
+
+main {
+    border: 1px solid red;
+    width: 900px;
+}
