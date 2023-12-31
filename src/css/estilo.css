@@ -7,10 +7,11 @@ ________________________________________________________________________________
 
 body {
     font-family: Helvetica, "Trebuchet MS", sans-serif;
-    background: #fff url(../img/);
+    background: #fff url(../img/bg.png);
 }
 
 main {
     border: 1px solid red;
-    width: 900px;
+    width: 1090px;
+    margin: 0 auto;
 }
